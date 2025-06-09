@@ -1,4 +1,4 @@
-**Wellcome**
+
 <img width=10% src="https://i.gifer.com/5GpK.gif"/> 
 
 ## Main Skills:
