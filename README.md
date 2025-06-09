@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00FF00&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=00FF00&section=header&reversal=false"/>
 
 
 ## Main Skills:
