@@ -1,4 +1,4 @@
-<img width=10% src="https://i.gifer.com/5GpK.gif"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59F707&width=435&lines=Wellcome" alt="Typing SVG" /></a>
+<img width=10% src="https://i.gifer.com/5GpK.gif"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial+black&pause=1000&color=59F707&width=435&lines=WELLCOME" alt="Typing SVG" /></a>
 
 
 ## Main Skills:
